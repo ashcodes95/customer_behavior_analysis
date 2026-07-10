@@ -88,15 +88,16 @@ Customer-Behavior-Analysis
 ├── Images
 │   ├── banner.png
 │   ├── dashboard.png
-│   └── project_workflow.png
+│   └── project_workflow.jpg
 │
-├── Dataset
-├── SQL
-├── Python
-├── Power BI
-├── Report
-├── Presentation
-└── README.md
+├── Business Problem Document.pdf
+├── Customer Behavior Dashboard.pbix
+├── Customer Shopping Behavior Analysis.pdf
+├── Customer-Shopping-Behavior-Analysis.pptx
+├── Customer_Shopping_Behavior_Analysis_Project.ipynb
+├── README.md
+├── customer_behavior_sql_queries.sql
+└── customer_shopping_behavior.csv
 ```
 
 ---
