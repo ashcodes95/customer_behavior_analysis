@@ -2,7 +2,7 @@
 
 > ### 🚀 End-to-End Data Analytics Project using Python, SQL & Power BI
 
-![Banner](Images/banner.png)
+![Banner](Images/banner.png.png)
 
 ---
 
