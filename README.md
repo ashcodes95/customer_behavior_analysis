@@ -21,7 +21,7 @@ A retail company wants to understand customer shopping behavior to improve sales
 # 🔄 Project Workflow
 
 <p align="center">
-  <img src="Images/project_workflow.png" width="100%">
+  <img src="Images/project_workflow.jpg" width="100%">
 </p>
 
 This project follows a complete end-to-end analytics pipeline:
